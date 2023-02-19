@@ -17,4 +17,4 @@ This module contains the implementation of a random restart hill climb algorithm
 This module contains the implementation of a minimum conflict algorithm to solve the nQueen problem. The algorithm uses a heuristic function that counts the number of conflicts between queens on the board and moves a queen to a position with minimum conflicts. This algorithm can be used to find a solution to the nQueen problem quickly.
 
 <h1>Conclusion</h1>
-These AI projects are useful for learning and experimenting with various Artificial Intelligence algorithms. You can use them as a starting point for your own projects or as a reference for your studies. If you have any suggestions or questions, feel free to open an issue or a pull request.
+These AI projects are useful for learning and experimenting with various Artificial Intelligence algorithms.
