@@ -8,7 +8,7 @@ This module contains the implementation of various search algorithms such as BFS
 This module contains the implementation of a crossover genetic algorithm to solve function optimization problems. The algorithm uses a combination of two parent chromosomes to create a new offspring chromosome, which is then mutated to explore the search space. This algorithm can be used to find the optimal solution for various optimization problems.
 
 <h1>geneticAlg.py</h1>
-This module contains the implementation of a genetic algorithm with a roulette selection to solve function optimization problems. The algorithm uses a population of chromosomes that undergo selection, crossover, and mutation to produce a new generation of chromosomes. This algorithm can be used to find the optimal solution for various optimization problems.
+This module contains the implementation of a genetic algorithm with a roulette selection to solve function optimization problems. The algorithm uses a population of chromosomes that undergo selection and mutation to produce a new generation of chromosomes. This algorithm can be used to find the optimal solution for various optimization problems.
 
 <h1>nQueen_RRHC.py</h1>
 This module contains the implementation of a random restart hill climb algorithm to solve the nQueen problem. The nQueen problem involves placing n chess queens on an n x n chessboard so that no two queens attack each other. The algorithm uses a random restart strategy to avoid getting stuck in a local optimum.
